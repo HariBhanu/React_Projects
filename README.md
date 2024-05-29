@@ -202,3 +202,6 @@ Q179. Nested array operations, flattening of an array likewise
 Q180. Performance optimization techniques explain  
 Q181. Shallow and deep copy..explain how will you create it  
 Q182. Various hooks syntax useParam, useReducer, useQuery, useContext and many more.
+Q183. Explain the Life cycle methods in Functional Components
+Q184. Explain the MVC of the React Application
+Q185. Is React a Library or Framework
