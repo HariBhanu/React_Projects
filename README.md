@@ -11,3 +11,6 @@ Using HOC will help us in
 3) Props Manipulation
 
 **Q2. What is Lifting State up in React?**
+
+When Two or more components at same level are using or sharing the same state then we should lift up the state to the closest common Ancestor
+This means that we won't have to maintain a local state in both of them rather we can lift up the State to the parent Component 
